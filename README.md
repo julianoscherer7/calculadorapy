@@ -1,4 +1,4 @@
-# Calculadora GUI em Python (Tkinter)
+# Calculadora GUI em Python
 
 Este projeto é uma calculadora gráfica desenvolvida utilizando a linguagem Python, a biblioteca Tkinter para a interface gráfica e conceitos de Programação Orientada a Objetos (POO). A calculadora realiza operações aritméticas básicas e possui funcionalidades adicionais como o uso do histórico de operações e um botão de reset.
 
